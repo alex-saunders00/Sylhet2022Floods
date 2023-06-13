@@ -17,7 +17,7 @@ The code is divided into the following sections:
 * Data Analysis (folder **analysis**)
 * Results Analysis (folder **results**)
 
-The Data Prepration folder is split into a subsequent two folders for creating surface water maps using (1) the Thomas et al. (2023) ("local", non-machine learning) and (2) the Paul & Ganju (2021) ("global", machine learning) algorithms. Code for the Paul & Ganju (2021) algorithm was adapted from the GitHub page associated to the paper, which is provided in the references below.
+The Data Prepration folder is split into a subsequent two folders for creating surface water maps using (1) the Thomas et al. (2023) ("local", non-machine learning) and (2) the Paul & Ganju (2021) ("global", machine learning) algorithms. Code for the Thomas et al. (2023) algorithm was adapted from the GitHub page https://github.com/mitchellthomas1/S1-Flood-Bangladesh. Code for the Paul & Ganju (2021) algorithm was adapted from the GitHub page https://github.com/sidgan/ETCI-2021-Competition-on-Flood-Detection.
 
 Functions used throughout the sections are stored in the folder "helpers". Note that a Google Earth Engine (GEE) account is required to run the Thomas et al. (2023) algorithm. See: https://earthengine.google.com/.
 
