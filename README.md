@@ -19,6 +19,12 @@ The code is divided into the following sections:
 
 The Data Prepration folder is split into a subsequent two folders for creating surface water maps using (1) the Thomas et al. (2023) ("local", non-machine learning) and (2) the Paul & Ganju (2021) ("global", machine learning) algorithms. Code for the Thomas et al. (2023) algorithm was adapted from the GitHub page https://github.com/mitchellthomas1/S1-Flood-Bangladesh. Code for the Paul & Ganju (2021) algorithm was adapted from the GitHub page https://github.com/sidgan/ETCI-2021-Competition-on-Flood-Detection.
 
+The Paul & Ganju codes should be run in the following order:
+1) download_s1_RTCScenes_hyp3.ipynb
+2) scale_chip_s1_RTCScenes.ipynb
+3) run_inference.ipynb
+4) post_process_preds.ipynb
+
 Functions used throughout the sections are stored in the folder "helpers". Note that a Google Earth Engine (GEE) account is required to run the Thomas et al. (2023) algorithm. See: https://earthengine.google.com/.
 
 ***Many thanks and credit to Jonathan Giezendanner who created the codes to run the Thomas et al. (2023) algorithm, which were adopted from the original code by Mitchell Thomas.***
