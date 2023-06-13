@@ -1,7 +1,7 @@
 # Sylhet2022Floods
 This repository contains code used in the following paper, which was submitted to the Institute of Electrical and Electronics Engineers (IEEE) International Symposium on Geoscience and Remote Sensing (IGARSS) 2023 conference.
 
-## A comparison of remote sensing approaches to assess the devastating May-June 2022 floods in Sylhet, Bangladesh
+### A comparison of remote sensing approaches to assess the devastating May-June 2022 floods in Sylhet, Bangladesh
 
 Saunders, A.1, Giezendanner, J.1, Tellman, B.1, Islam, A.1, Bhuyan, A.2, Islam, A.K.M.S.3
 
@@ -28,7 +28,8 @@ For information, please contact alexsaunders@arizona.edu.
 
 ### References
 
+Paul, S., Ganju, S., 2021. Flood Segmentation on Sentinel-1 SAR Imagery with Semi-Supervised Learning. https://doi.org/10.48550/arXiv.2107.08369
+
 Thomas, M., Tellman, E., Osgood, D., DeVries, B., Islam, A.S., Steckler, M.S., Goodman, M., Billah, M., 2023. A framework to assess remote sensing algorithms for satellite-based flood index insurance. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 1–17. https://doi.org/10.1109/JSTARS.2023.3244098 
 
-Paul, S., Ganju, S., 2021. Flood Segmentation on Sentinel-1 SAR Imagery with Semi-Supervised Learning. https://doi.org/10.48550/arXiv.2107.08369
 
