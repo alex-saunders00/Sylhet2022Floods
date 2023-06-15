@@ -3,13 +3,13 @@ This repository contains code used in the following paper, which was submitted t
 
 ### A comparison of remote sensing approaches to assess the devastating May-June 2022 floods in Sylhet, Bangladesh
 
-Saunders, A.1, Giezendanner, J.1, Tellman, B.1, Islam, A.1, Bhuyan, A.2, Islam, A.K.M.S.3
+Saunders, A.<sup>1</sup>, Giezendanner, J.<sup>1</sup>, Tellman, B.<sup>1</sup>, Islam, A.<sup>1</sup>, Bhuyan, A.<sup>2</sup>, Islam, A.K.M.S.<sup>3</sup>
 
-1 Social Pixel Lab, School of Geography, Development and Environment, University of Arizona, USA
+<sup>1</sup>Social Pixel Lab, School of Geography, Development and Environment, University of Arizona, USA
 
-2 Flood Forecasting and Warning Centre, Bangladesh Water Development Board
+<sup>2</sup>Flood Forecasting and Warning Centre, Bangladesh Water Development Board
 
-3 Institute of Water and Flood Management, Bangladesh University of Engineering and Technology
+<sup>3</sup>Institute of Water and Flood Management, Bangladesh University of Engineering and Technology
 
 ### Description of the code
 The code is divided into the following sections:
