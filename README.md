@@ -28,7 +28,7 @@ Functions used throughout the sections are stored in the folder "helpers". Note 
 ***Many thanks and credit to Jonathan Giezendanner who created the codes to run the Thomas et al. (2023) algorithm, which were adopted from the original code by Mitchell Thomas.***
 
 ### Data
-The data from this study is available via Cyverse.
+The data from this study is available via Cyverse at: https://de.cyverse.org/data/ds/iplant/home/alexsaunders/Sylhet2022Floods_local?type=folder&resourceId=1c319e32-1fff-11ee-a84e-90e2ba675364.
 
 ### Contact
 For information, please contact alexsaunders@arizona.edu. 
